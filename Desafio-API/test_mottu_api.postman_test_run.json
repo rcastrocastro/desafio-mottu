@@ -1,0 +1,120 @@
+{
+	"id": "b4ec39ae-d7bd-4449-a116-c0812df6596b",
+	"name": "Mottu",
+	"timestamp": "2023-06-21T00:48:54.049Z",
+	"collection_id": "6469954-30a23d5b-9920-4b16-8052-cbf11b8df0cc",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 8,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2023-06-21T00:48:52.088Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "4baa355e-dd06-4033-b874-31db96819c94",
+			"name": "/characters",
+			"url": "http://gateway.marvel.com/v1/public/characters?ts=1687308532&apikey=51135bb3bca517200fc71edf3ca27899&hash=0d7ed124ba248743e313e5e4e0890ee5",
+			"time": 587,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Messagem is OK": true,
+				"response must be valid and have a body": true,
+				"Validate non-empty response": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Messagem is OK": {
+					"pass": 1,
+					"fail": 0
+				},
+				"response must be valid and have a body": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Validate non-empty response": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				587
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Messagem is OK": true,
+					"response must be valid and have a body": true,
+					"Validate non-empty response": true
+				}
+			]
+		},
+		{
+			"id": "893f9497-7a15-40e5-8940-0bdcb5203f22",
+			"name": "/characters/characterId",
+			"url": "http://gateway.marvel.com/v1/public/characters/1011297?ts=1687308532&apikey=51135bb3bca517200fc71edf3ca27899&hash=0d7ed124ba248743e313e5e4e0890ee5",
+			"time": 208,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Messagem is OK": true,
+				"Validate non-empty response": true,
+				"must return a response with valid Schema": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Messagem is OK": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Validate non-empty response": {
+					"pass": 1,
+					"fail": 0
+				},
+				"must return a response with valid Schema": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				208
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Messagem is OK": true,
+					"Validate non-empty response": true,
+					"must return a response with valid Schema": true
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 795,
+	"collection": {
+		"requests": [
+			{
+				"id": "4baa355e-dd06-4033-b874-31db96819c94",
+				"method": "GET"
+			},
+			{
+				"id": "893f9497-7a15-40e5-8940-0bdcb5203f22",
+				"method": "GET"
+			}
+		]
+	}
+}

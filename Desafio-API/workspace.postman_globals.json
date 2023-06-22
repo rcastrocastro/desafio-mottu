@@ -1,0 +1,33 @@
+{
+	"id": "cda0e93f-0900-4c26-82de-2d4dcf18ccbf",
+	"values": [
+		{
+			"key": "URI",
+			"value": "http://gateway.marvel.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "timestamp",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "publicKey",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "md5Hash",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2023-06-21T00:49:25.128Z",
+	"_postman_exported_using": "Postman/10.15.1"
+}

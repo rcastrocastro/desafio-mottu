@@ -1,0 +1,54 @@
+{
+  "uid" : "74dc8120888b511c",
+  "name" : "Saldo da Conta",
+  "historyId" : "e8be55dc933e3237ff9f0199533f0234",
+  "time" : {
+    "start" : 1687392943565,
+    "stop" : 1687392946332,
+    "duration" : 2767
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "package",
+    "value" : ".Users.raphaelcastro.Projetos.webdriverio-appium.test.specs.test_valida-saldo.js"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validar Saldo"
+  }, {
+    "name" : "feature",
+    "value" : "Validar Saldo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "Android"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "74dc8120888b511c.json",
+  "parameterValues" : [ "Android" ]
+}

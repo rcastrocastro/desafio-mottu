@@ -1,0 +1,179 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "Saldo da Conta",
+      "uid" : "51750eeb1aec0fe4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1687392650585,
+        "stop" : 1687392652578,
+        "duration" : 1993
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Android" ]
+    }, {
+      "name" : "Saldo da Conta",
+      "uid" : "42129fa26b9d6f0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687393110554,
+        "stop" : 1687393113395,
+        "duration" : 2841
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 9,
+      "retriesStatusChange" : true,
+      "parameters" : [ "Android" ]
+    }, {
+      "name" : "Saldo da Conta",
+      "uid" : "cb056b89e3adaae3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687392875006,
+        "stop" : 1687392878036,
+        "duration" : 3030
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Android" ]
+    }, {
+      "name" : "Saldo da Conta",
+      "uid" : "b1db398190717a95",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687385435784,
+        "stop" : 1687385438941,
+        "duration" : 3157
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Android" ]
+    }, {
+      "name" : "Saldo da Conta",
+      "uid" : "4870f18fd6b4e7de",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687385501794,
+        "stop" : 1687385504757,
+        "duration" : 2963
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Android" ]
+    }, {
+      "name" : "Saldo da Conta",
+      "uid" : "71e5ba638bed5127",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687384370023,
+        "stop" : 1687384372932,
+        "duration" : 2909
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Android" ]
+    }, {
+      "name" : "Saldo da Conta",
+      "uid" : "74dc8120888b511c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687392943565,
+        "stop" : 1687392946332,
+        "duration" : 2767
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Android" ]
+    }, {
+      "name" : "Saldo da Conta",
+      "uid" : "2a163d653209f8cd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1687392681071,
+        "stop" : 1687392681078,
+        "duration" : 7
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Android" ]
+    }, {
+      "name" : "Saldo da Conta",
+      "uid" : "3e740d60b7a626dd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687393002809,
+        "stop" : 1687393005610,
+        "duration" : 2801
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Android" ]
+    }, {
+      "name" : "Saldo da Conta",
+      "uid" : "d599f961058c6340",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687392716147,
+        "stop" : 1687392719021,
+        "duration" : 2874
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Android" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  } ]
+}

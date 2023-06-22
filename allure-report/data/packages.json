@@ -1,0 +1,26 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : ".Users.raphaelcastro.Projetos.webdriverio-appium.test.specs.test_valida-saldo.js",
+    "children" : [ {
+      "name" : "Saldo da Conta",
+      "uid" : "42129fa26b9d6f0",
+      "parentUid" : "265fc9708ab0c921df6364e9f002ac26",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687393110554,
+        "stop" : 1687393113395,
+        "duration" : 2841
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 9,
+      "retriesStatusChange" : true,
+      "parameters" : [ "Android" ]
+    } ],
+    "uid" : ".Users.raphaelcastro.Projetos.webdriverio-appium.test.specs.test_valida-saldo.js"
+  } ]
+}

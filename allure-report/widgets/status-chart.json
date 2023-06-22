@@ -1,0 +1,11 @@
+[ {
+  "uid" : "42129fa26b9d6f0",
+  "name" : "Saldo da Conta",
+  "time" : {
+    "start" : 1687393110554,
+    "stop" : 1687393113395,
+    "duration" : 2841
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
